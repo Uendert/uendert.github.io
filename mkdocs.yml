@@ -5,12 +5,13 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  icon:
-    # logo: fontawesome/solid/U
+  # icon:
+  #   logo: fontawesome/solid/U
   logo: assets/eu.jpg
-  favicon: assets/eu.jpg
+  favicon: assets/favicon.ico
   features:
     - navigation.footer
+    - navigation.tabs
   palette:
     # Dark Mode
     - scheme: slate
@@ -45,6 +46,8 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - footnotes
+  - pymdownx.caret
 
 extra:
   social:
@@ -58,3 +61,16 @@ extra:
 copyright: Copyright &copy; 2025 Uendert Andrade
 extra_css:
   - assets/extra.css
+
+# plugins:
+#   - search
+#   - bibtex:
+#       # bib_file: "refs.bib"
+#       bib_file: "export-bibtex.bib"
+#       # csl_file: nature.csl
+#       csl_file: apj.csl
+      # bib_by_default: false
+
+# nav:
+#   - Home: index.md
+#   - Talks: talks.md
