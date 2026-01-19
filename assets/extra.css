@@ -1,0 +1,163 @@
+/* === Hero Image Styling === */
+.hero-image {
+  display: block;
+  margin: 1.5rem auto 0.75rem auto;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  opacity: 0;
+  transform: scale(0.98);
+  animation: fadeInUp 1s ease-out forwards;
+}
+
+/* Hover zoom effect */
+.hero-image:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+/* Fade-in animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* === Caption Styling === */
+.figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9rem;
+  margin-top: 0.4rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Brighter caption for dark mode */
+[data-md-color-scheme="slate"] .figcaption {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+/* Soft border for light mode */
+[data-md-color-scheme="default"] .hero-image {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Round navbar logo (Material for MkDocs) */
+.md-header__button.md-logo img {
+  width: 28px !important;      /* force size over theme defaults */
+  height: 28px !important;
+  border-radius: 50%;
+  object-fit: cover;            /* crop to circle if not square */
+  margin-right: 6px;
+  vertical-align: middle;
+  box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+}
+
+/* Bump size slightly on large screens (optional) */
+@media (min-width: 1100px) {
+  .md-header__button.md-logo img {
+    width: 32px !important;
+    height: 32px !important;
+  }
+}
+
+
+/* Two-column layout: text + profile card */
+.ua-home-grid {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 1.75rem;
+  align-items: start;
+}
+
+/* Stack on mobile */
+@media (max-width: 900px) {
+  .ua-home-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ua-profile-card {
+  border-radius: 16px;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--md-default-bg-color);
+  box-shadow: 0 10px 26px rgba(0,0,0,0.18);
+}
+
+/* Dark mode: slightly different shadow */
+[data-md-color-scheme="slate"] .ua-profile-card {
+  box-shadow: 0 12px 30px rgba(0,0,0,0.35);
+}
+
+.ua-profile-avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 0.9rem auto;
+  border: 2px solid var(--md-default-fg-color--lightest);
+}
+
+.ua-profile-name {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0.2rem 0 0.25rem 0;
+  text-align:center;
+}
+
+.ua-profile-handle {
+  color: var(--md-default-fg-color--light);
+  margin-bottom: 0.75rem;
+}
+
+.ua-profile-title {
+  font-weight: 600;
+  margin: 0.5rem 0 0.9rem 0;
+  text-align:center
+}
+
+.ua-profile-btn {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  padding: 0.55rem 0.7rem;
+  border-radius: 10px;
+  border: 1px solid var(--md-primary-fg-color);
+  color: var(--md-primary-fg-color);
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0.25rem 0 0.9rem 0;
+}
+
+.ua-profile-btn:hover {
+  background: color-mix(in srgb, var(--md-primary-fg-color) 10%, transparent);
+}
+
+.ua-profile-meta {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0 0;
+}
+
+.ua-profile-meta li {
+  display: flex;
+  gap: 0.5rem;
+  align-items: start;
+  margin: 0 0;
+  color: var(--md-default-fg-color--light);
+}
+
+.ua-profile-meta .icon {
+  width: 1rem;
+  line-height: 1.3rem;
+  opacity: 0.85;
+}
