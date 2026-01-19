@@ -69,7 +69,7 @@ Advisor: Jailsom Alcaniz
 
 ## **Publications**
 
-See the dedicated [Publications](Publications.md) page for a complete and up-to-date list.
+See the dedicated [Publications](publications.md) page for a complete and up-to-date list.
 
 ---
 
