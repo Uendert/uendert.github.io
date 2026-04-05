@@ -91,7 +91,7 @@ Led galaxy clustering BAO analyses within the GQC Working Group, including recon
 
 ---
 
-### Leinweber Institute for Physics, University of Michigan
+### Leinweber Institute for Theoretical Physics, University of Michigan
 
 **Organizer, UM Cosmology Group Meeting and Cosmo Seminar**  
 *Fall 2025*  
@@ -162,4 +162,3 @@ Portuguese (native), English (fluent), Spanish (conversational)
     Associate Professor  
     University of Portsmouth  
     📧 seshadri.nadathur@port.ac.uk
-

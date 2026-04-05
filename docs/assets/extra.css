@@ -1,6 +1,9 @@
 /* === Hero Image Styling === */
 .hero-image {
   display: block;
+  width: 100%;
+  max-width: 560px;
+  height: auto;
   margin: 1.5rem auto 0.75rem auto;
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -34,7 +37,8 @@
   text-align: center;
   font-style: italic;
   font-size: 0.9rem;
-  margin-top: 0.4rem;
+  max-width: 560px;
+  margin: 0.4rem auto 0;
   color: var(--md-default-fg-color--light);
 }
 
@@ -72,21 +76,33 @@
 /* Two-column layout: text + profile card */
 .ua-home-grid {
   display: grid;
-  grid-template-columns: 1fr 320px;
-  gap: 1.75rem;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 348px);
+  gap: 1.5rem;
   align-items: start;
+}
+
+.ua-home-grid > * {
+  min-width: 0;
 }
 
 /* Stack on mobile */
 @media (max-width: 900px) {
   .ua-home-grid {
     grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .ua-profile-card {
+    order: -1;
+    width: 100%;
+    max-width: 26rem;
+    margin: 0 auto;
   }
 }
 
 .ua-profile-card {
-  border-radius: 16px;
-  padding: 1rem;
+  border-radius: 18px;
+  padding: 1.15rem 1.15rem 1.05rem;
   border: 1px solid var(--md-default-fg-color--lightest);
   background: var(--md-default-bg-color);
   box-shadow: 0 10px 26px rgba(0,0,0,0.18);
@@ -97,21 +113,27 @@
   box-shadow: 0 12px 30px rgba(0,0,0,0.35);
 }
 
+.ua-profile-card > p:first-child {
+  margin: 0;
+}
+
 .ua-profile-avatar {
-  width: 200px;
-  height: 200px;
+  width: 184px;
+  height: 184px;
   border-radius: 50%;
   object-fit: cover;
   display: block;
-  margin: 0 auto 0.9rem auto;
+  margin: 0 auto 0.8rem auto;
   border: 2px solid var(--md-default-fg-color--lightest);
 }
 
 .ua-profile-name {
-  font-size: 1.4rem;
+  font-size: 1.25rem;
   font-weight: 700;
-  margin: 0.2rem 0 0.25rem 0;
-  text-align:center;
+  line-height: 1.15;
+  margin: 0.2rem 0 0.35rem 0;
+  text-align: center;
+  text-wrap: balance;
 }
 
 .ua-profile-handle {
@@ -120,9 +142,13 @@
 }
 
 .ua-profile-title {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.98rem;
   font-weight: 600;
-  margin: 0.5rem 0 0.9rem 0;
-  text-align:center
+  line-height: 1.35;
+  margin: 0 0 1rem 0;
+  text-align: center;
+  text-wrap: balance;
 }
 
 .ua-profile-btn {
@@ -145,19 +171,119 @@
 .ua-profile-meta {
   list-style: none;
   padding: 0;
-  margin: 0 0 0 0;
+  margin: 0;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
 }
 
 .ua-profile-meta li {
   display: flex;
-  gap: 0.5rem;
+  gap: 0.65rem;
   align-items: start;
-  margin: 0 0;
+  margin: 0 0 0.7rem;
+  font-size: 0.95rem;
+  line-height: 1.45;
   color: var(--md-default-fg-color--light);
 }
 
+.ua-profile-meta li:last-child {
+  margin-bottom: 0;
+}
+
 .ua-profile-meta .icon {
-  width: 1rem;
-  line-height: 1.3rem;
-  opacity: 0.85;
+  width: 1.1rem;
+  line-height: 1.45;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.ua-profile-detail {
+  display: block;
+  flex: 1;
+  min-width: 0;
+}
+
+.ua-profile-org-secondary {
+  display: block;
+}
+
+.ua-profile-meta a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--md-default-fg-color--light) 45%, transparent);
+  transition: color 0.2s ease, border-color 0.2s ease;
+  word-break: normal;
+  overflow-wrap: normal;
+}
+
+.ua-profile-meta a:hover {
+  color: var(--md-accent-fg-color);
+  border-bottom-color: currentColor;
+}
+
+@media (max-width: 700px) {
+  .hero-image {
+    margin: 1rem auto 0.6rem auto;
+  }
+
+  .md-typeset h1 {
+    margin-bottom: 1rem;
+  }
+
+  .figcaption {
+    margin: 0.3rem auto 0;
+    font-size: 0.84rem;
+  }
+
+  .ua-profile-card {
+    padding: 1rem 0.95rem 0.9rem;
+  }
+
+  .ua-profile-avatar {
+    width: 156px;
+    height: 156px;
+    margin: 0 auto 0.7rem auto;
+  }
+
+  .ua-profile-name {
+    font-size: 1.15rem;
+    margin: 0.1rem 0 0.3rem 0;
+  }
+
+  .ua-profile-title {
+    font-size: 0.92rem;
+    margin: 0 0 0.85rem 0;
+  }
+
+  .ua-profile-meta {
+    padding-top: 0.75rem;
+  }
+
+  .ua-profile-meta li {
+    display: block;
+    margin: 0 0 0.55rem;
+    font-size: 0.92rem;
+    line-height: 1.4;
+    text-align: center;
+  }
+
+  .ua-profile-meta .icon {
+    display: none;
+  }
+
+  .ua-profile-org {
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+
+  .ua-profile-loc,
+  .ua-profile-email a,
+  .ua-profile-github a {
+    white-space: nowrap;
+  }
+
+  .ua-profile-email a,
+  .ua-profile-github a {
+    display: inline-block;
+  }
 }

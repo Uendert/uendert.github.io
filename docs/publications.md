@@ -250,9 +250,7 @@ ORCID: 0000-0002-4118-8236
   <li>
     L. Casas et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
     <em>Validation of the DESI DR2 Ly&alpha; BAO analysis using synthetic datasets</em>;<br>
-    <a href="https://journals.aps.org/prd/abstract/10.1103/kdys-w8vl">
-      2025, <em>Phys. Rev. D</em> <strong>112</strong>, 083512
-    </a>
+    <a href="https://arxiv.org/abs/2503.14741">arXiv:2503.14741</a>
   </li>
 
   <li>

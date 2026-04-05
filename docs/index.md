@@ -6,99 +6,85 @@ hide:
   - title
 ---
 
-<div class="ua-home-grid">
+<div class="ua-home-grid" markdown="1">
 
-  <!-- LEFT COLUMN -->
-  <div>
+<div markdown="1">
 
-    <!-- <p>👋 Welcome!</p> -->
+I’m **Uendert Andrade**, a **Leinweber Postdoctoral Fellow** in the Department of Physics at the <strong>University&nbsp;of&nbsp;Michigan</strong>, working within the **Leinweber Institute for Theoretical Physics**.
 
-    <p>
-      I’m Uendert Andrade, a Leinweber Postdoctoral Fellow</strong> in the
-     Department of Physics at the <strong>University of Michigan</strong>, working within the
-      <u>Leinweber Institute for Theoretical Physics </u>.
-    </p>
+My research focuses on precision tests of the standard cosmological model using **large-scale structure** data, at the intersection of observational and theoretical cosmology. I work in particular on **galaxy clustering**, **baryon acoustic oscillations (BAO)**, and consistency tests of **gravity** and **dark energy**.
 
-    <p>
-      My research focuses on precision tests of the standard cosmological model</strong> using <strong>large-scale structure</strong> data,
-      at the intersection of observational and theoretical cosmology</strong>. I work in particular on
-      galaxy clustering</strong>, <strong>baryon acoustic oscillations (BAO)</strong>, and
-      consistency tests of <strong>gravity</strong> and <strong>dark energy</strong>.
-    </p>
+I am actively involved in the **Dark Energy Spectroscopic Instrument (DESI)** collaboration, where I have played leading roles in BAO analyses, including validation, blinding strategies, and coordination of cosmological results from galaxy and quasar clustering. In parallel, I pursue model-agnostic consistency tests that probe the relationship between cosmic expansion and the growth of structure.
 
-    <p>
-      I am actively involved in the Dark Energy Spectroscopic Instrument (DESI)</strong> collaboration, where I have played leading roles
-      in BAO analyses, including validation, blinding strategies, and coordination of cosmological results from galaxy and quasar clustering.
-      In parallel, I pursue model-agnostic consistency tests</strong> that probe the relationship between cosmic expansion and the growth of structure.
-    </p>
+## Selected Highlights
 
-    <!--
-    <p style="margin-top:1.2rem; margin-bottom:1.0rem;">
-      <a href="CV/" class="md-button md-button--primary">Curriculum Vitae</a>
-      <a href="Publications/" class="md-button">Publications</a>
-      <a href="Talks/" class="md-button">Talks</a>
-    </p>
-    -->
+<div class="grid cards" markdown="1">
 
-    <figure style="margin: 1.2rem 0 1.0rem 0, text-align: right">
-      <img src="assets/cosmo25.jpeg" class="hero-image" width="560" loading="lazy"
-           alt="Uendert Andrade giving a talk at CMU">
-      <figcaption class="figcaption">
-        <em>Presenting DESI DR2 BAO measurements and validation — Cosmo25, Carnegie Mellon University (2025)</strong>.</em>
-      </figcaption>
-    </figure>
+-   :material-file-document-outline: __Publication highlight__
 
-    <div class="admonition note">
-      <p class="admonition-title">About this site</p>
-      <p>
-        This website provides an overview of my research</strong>, publications</strong>, talks</strong>, and professional service</strong>.
-        Some sections are periodically updated as new results and materials become publicly available.
-      </p>
-    </div>
+    ---
 
-  </div>
+    *Validation of the DESI DR2 Measurements of Baryon Acoustic Oscillations from Galaxies and Quasars* appeared in *Phys. Rev. D* (2025) and was featured in *Physics*.
 
-  <!-- RIGHT COLUMN -->
-  <div class="ua-profile-card">
+    [Browse publications](publications.md)
 
-    <img class="ua-profile-avatar" src="assets/eu.jpg" alt="Uendert Andrade">
+-   :material-presentation: __Selected invited talks__
 
-    <div class="ua-profile-name">Uendert Andrade</div>
-    <!-- <div class="ua-profile-handle">Uendert dos Santos Andrade</div> -->
+    ---
 
-    <div class="ua-profile-title">Postdoctoral Researcher</div>
+    Recent invited talks include CIPANP 2025, NASA Cosmic Structure SIG, Cornell LEPP, and other meetings focused on DESI and growth-expansion consistency tests.
 
-    <!-- <a class="ua-profile-btn" href="Contact/">Contact</a> -->
+    [See talks](talks.md)
 
-    <ul class="ua-profile-meta">
-      <li>
-          <span class="icon">🏛️</span>
-          <span>Leinweber Institute for Theoretical Physics, University of Michigan</span>
-        </li>
-      <li>
-          <span class="icon">📍</span>
-          <span>Ann Arbor, MI, USA</span>
-        </li>
-      <li>
-          <span class="icon">✉️</span>
-          <span><a href="mailto:uendsa@umich.edu">uendsa@umich.edu</a></span>
-        </li>
-      <!--
-      <li>
-          <span class="icon">🆔</span>
-          <span><a href="https://orcid.org/0000-0002-4118-8236">0000-0002-4118-8236</a></span>
-        </li> -->
-      <li>
-          <span class="icon">🐙</span>
-          <span><a href="https://github.com/Uendert">github.com/Uendert</a></span>
-        </li>
-      <!--
-      <li>
-          <span class="icon">𝕏</span>
-          <span><a href="https://x.com/uendert">@uendert</a></span>
-        </li> -->
-    </ul>
+-   :material-account-group-outline: __Leadership and service__
 
-  </div>
+    ---
+
+    Recent roles include DESI DR2 BAO co-coordination, topical-group leadership, and organizing cosmology seminars and summer school activities at Michigan.
+
+    [View CV](cv.md)
+
+</div>
+
+![Uendert Andrade giving a talk at CMU](assets/cosmo25.jpeg){ .hero-image }
+
+*Presenting DESI DR2 BAO measurements and validation at COSMO25, Carnegie Mellon University (2025).*
+{: .figcaption }
+
+!!! note "About this site"
+    This website provides an overview of my research, publications, talks, and professional service. Some sections are updated as new results and materials become publicly available.
+
+</div>
+
+<div class="ua-profile-card" markdown="1">
+
+![Uendert Andrade](assets/eu.jpg){ .ua-profile-avatar }
+
+<div class="ua-profile-name">Uendert Andrade</div>
+<div class="ua-profile-title">Leinweber Postdoctoral Fellow</div>
+
+<ul class="ua-profile-meta">
+  <li>
+    <span class="icon">🏛️</span>
+    <span class="ua-profile-detail ua-profile-org">
+      <span>Leinweber Institute for Theoretical Physics</span>
+      <span class="ua-profile-org-secondary">University of Michigan</span>
+    </span>
+  </li>
+  <li>
+    <span class="icon">📍</span>
+    <span class="ua-profile-detail ua-profile-loc">Ann Arbor, MI, USA</span>
+  </li>
+  <li>
+    <span class="icon">✉️</span>
+    <span class="ua-profile-detail ua-profile-email"><a href="mailto:uendsa@umich.edu">uendsa@umich.edu</a></span>
+  </li>
+  <li>
+    <span class="icon">🐙</span>
+    <span class="ua-profile-detail ua-profile-github"><a href="https://github.com/Uendert">github.com/Uendert</a></span>
+  </li>
+</ul>
+
+</div>
 
 </div>

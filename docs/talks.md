@@ -28,6 +28,10 @@ Plenary
 *Cosmology from DESI DR1: Baryon Acoustic Oscillations & Full-Shape Measurements*  
 **February 2025**
 
+**CCAPP Seminar**, The Ohio State University  
+*DES Y6 extensions and growth–geometry split analyses*  
+**November 2024**
+
 **Cosmology Meeting**, Perimeter Institute for Theoretical Physics  
 *Cosmological constraints from DESI DR1*  
 **October 2024**
@@ -35,10 +39,6 @@ Plenary
 **Cosmology Meeting**, University of Waterloo  
 *An Empirical Consistency Test of Dark Energy Models*  
 **October 2024**
-
-**CCAPP Seminar**, The Ohio State University  
-*DES Y6 extensions and growth–geometry split analyses*  
-**November 2024**
 
 **XIII International Conference on New Frontiers in Physics**, Crete, Greece  
 *Cosmology from the DESI Year 1 Baryon Acoustic Oscillations Measurements*  
