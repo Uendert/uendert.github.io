@@ -1,58 +1,36 @@
 ---
-title: "👋 Welcome!"
+title: "Uendert Andrade"
+description: "Personal website of Uendert Andrade, a cosmologist working on DESI BAO, large-scale structure, and tests of dark energy and gravity."
 hide:
   - toc
   - navigation
   - title
 ---
 
-<div class="ua-home-grid" markdown="1">
+<div class="ua-home-hero" markdown="1">
 
-<div markdown="1">
+<div class="ua-home-copy" markdown="1">
 
-I’m **Uendert Andrade**, a **Leinweber Postdoctoral Fellow** in the Department of Physics at the <strong>University&nbsp;of&nbsp;Michigan</strong>, working within the **Leinweber Institute for Theoretical Physics**.
+<h1 class="ua-home-name">Uendert Andrade</h1>
 
-My research focuses on precision tests of the standard cosmological model using **large-scale structure** data, at the intersection of observational and theoretical cosmology. I work in particular on **galaxy clustering**, **baryon acoustic oscillations (BAO)**, and consistency tests of **gravity** and **dark energy**.
+<p class="ua-home-kicker">Leinweber Postdoctoral Fellow · University of Michigan</p>
 
-I am actively involved in the **Dark Energy Spectroscopic Instrument (DESI)** collaboration, where I have played leading roles in BAO analyses, including validation, blinding strategies, and coordination of cosmological results from galaxy and quasar clustering. In parallel, I pursue model-agnostic consistency tests that probe the relationship between cosmic expansion and the growth of structure.
+<p class="ua-home-tagline">Precision cosmology with large galaxy surveys, cosmic structure, and growth-expansion consistency tests.</p>
 
-## Selected Highlights
+I’m **Uendert Andrade**, a cosmologist using state-of-the-art galaxy surveys to test the standard cosmological model. My work focuses on **large-scale structure**, **galaxy clustering**, **baryon acoustic oscillations (BAO)**, and consistency tests of **gravity** and **dark energy**.
 
-<div class="grid cards" markdown="1">
+I work across observational and theoretical cosmology, with a particular emphasis on turning survey measurements into robust cosmological constraints. Within **DESI**, I have played leading roles in BAO validation, blinding strategies, and coordination of cosmological results from galaxy and quasar clustering.
 
--   :material-file-document-outline: __Publication highlight__
-
-    ---
-
-    *Validation of the DESI DR2 Measurements of Baryon Acoustic Oscillations from Galaxies and Quasars* appeared in *Phys. Rev. D* (2025) and was featured in *Physics*.
-
-    [Browse publications](publications.md)
-
--   :material-presentation: __Selected invited talks__
-
-    ---
-
-    Recent invited talks include CIPANP 2025, NASA Cosmic Structure SIG, Cornell LEPP, and other meetings focused on DESI and growth-expansion consistency tests.
-
-    [See talks](talks.md)
-
--   :material-account-group-outline: __Leadership and service__
-
-    ---
-
-    Recent roles include DESI DR2 BAO co-coordination, topical-group leadership, and organizing cosmology seminars and summer school activities at Michigan.
-
-    [View CV](cv.md)
-
+<div class="ua-home-actions">
+  <a href="research/" class="ua-home-action">Research</a>
+  <a href="publications/" class="ua-home-action">Publications</a>
+  <a href="talks/" class="ua-home-action">Talks</a>
+  <a href="cv/" class="ua-home-action">CV</a>
 </div>
 
-![Uendert Andrade giving a talk at CMU](assets/cosmo25.jpeg){ .hero-image }
-
-*Presenting DESI DR2 BAO measurements and validation at COSMO25, Carnegie Mellon University (2025).*
-{: .figcaption }
-
-!!! note "About this site"
-    This website provides an overview of my research, publications, talks, and professional service. Some sections are updated as new results and materials become publicly available.
+<div class="ua-home-affiliation" markdown="1">
+At Michigan, I work within the **Leinweber Institute for Theoretical Physics** and am part of the [Huterer Research Group](https://websites.umich.edu/~huterer/mygroup.html).
+</div>
 
 </div>
 
@@ -63,28 +41,70 @@ I am actively involved in the **Dark Energy Spectroscopic Instrument (DESI)** co
 <div class="ua-profile-name">Uendert Andrade</div>
 <div class="ua-profile-title">Leinweber Postdoctoral Fellow</div>
 
-<ul class="ua-profile-meta">
-  <li>
-    <span class="icon">🏛️</span>
-    <span class="ua-profile-detail ua-profile-org">
-      <span>Leinweber Institute for Theoretical Physics</span>
-      <span class="ua-profile-org-secondary">University of Michigan</span>
-    </span>
-  </li>
-  <li>
-    <span class="icon">📍</span>
-    <span class="ua-profile-detail ua-profile-loc">Ann Arbor, MI, USA</span>
-  </li>
-  <li>
-    <span class="icon">✉️</span>
-    <span class="ua-profile-detail ua-profile-email"><a href="mailto:uendsa@umich.edu">uendsa@umich.edu</a></span>
-  </li>
-  <li>
-    <span class="icon">🐙</span>
-    <span class="ua-profile-detail ua-profile-github"><a href="https://github.com/Uendert">github.com/Uendert</a></span>
-  </li>
-</ul>
+<div class="ua-profile-affiliations">
+  <span>Leinweber Institute for Theoretical Physics</span>
+  <span>University of Michigan · Ann Arbor</span>
+  <a href="mailto:uendsa@umich.edu">uendsa@umich.edu</a>
+</div>
+
+<div class="ua-profile-actions">
+  <a href="mailto:uendsa@umich.edu">Email</a>
+  <a href="https://github.com/Uendert">GitHub</a>
+</div>
 
 </div>
 
+</div>
+
+## Featured DESI BAO Work
+
+<p class="ua-featured-context">
+DESI DR2 BAO is a large collaboration result. My contributions centered on galaxy and quasar BAO validation, blinding tests, analysis coordination, documentation, plots, and writing, including leading the dedicated validation paper.
+</p>
+
+<div class="ua-featured-work" markdown="1">
+
+<figure class="ua-bao-figure" markdown="1">
+![BAO standard ruler across cosmic time](assets/bao-still.png){ .ua-bao-image }
+<figcaption>BAO as a standard ruler across cosmic time. Image: C. Lamman/DESI Collaboration, via <a href="https://physics.aps.org/articles/v18/130">APS Physics</a>.</figcaption>
+</figure>
+
+<div class="ua-paper-list" markdown="1">
+
+-   :material-chart-bell-curve-cumulative: __Main DESI DR2 BAO paper__
+
+    ---
+
+    *DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints* appeared in *Phys. Rev. D* (2025).
+
+    Credited for DR2 BAO topical-group leadership, Key Project coordination, BAO analysis on mocks and data, unblinding tests and documentation, plots, and writing.
+
+    [Open the PRD paper](https://journals.aps.org/prd/abstract/10.1103/tr6y-kpc6)
+
+-   :material-check-decagram-outline: __Validation paper__
+
+    ---
+
+    *Validation of the DESI DR2 Measurements of Baryon Acoustic Oscillations from Galaxies and Quasars* appeared in *Phys. Rev. D* (2025).
+
+    Led the analysis and writing for the paper validating the galaxy and quasar BAO measurements.
+
+    [Open the validation paper](https://journals.aps.org/prd/abstract/10.1103/kdys-w8vl)
+
+-   :material-newspaper-variant-outline: __Physics Viewpoint__
+
+    ---
+
+    *Rethinking Our Place in the Universe* highlights DESI DR2 BAO results and their implications for dark energy.
+
+    [Read the APS Physics article](https://physics.aps.org/articles/v18/130)
+
+</div>
+
+</div>
+
+<div class="ua-home-links">
+  <a href="research/">Explore research</a>
+  <a href="publications/">Browse publications</a>
+  <a href="talks/">See talks</a>
 </div>

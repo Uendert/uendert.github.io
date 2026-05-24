@@ -1,14 +1,18 @@
 ---
+description: "Publications by Uendert Andrade, including leading contributions to DESI BAO, large-scale structure, dark energy, and gravity tests."
 hide:
   - navigation
 ---
-<!-- ## Publications -->
-<div style="text-align: right">
-<a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Uendert%20Andrade&ui-citation-summary=true">
+
+# Publications
+
+Selected refereed papers and collaboration results, grouped by contribution role.
+
+<div class="ua-publication-links">
+<a class="ua-publication-link" href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Uendert%20Andrade&ui-citation-summary=true">
 INSPIRE-HEP
 </a>
-|
-<a href="https://orcid.org/0000-0002-4118-8236">
+<a class="ua-publication-link" href="https://orcid.org/0000-0002-4118-8236">
 ORCID: 0000-0002-4118-8236
 </a>
 </div>
@@ -22,7 +26,7 @@ ORCID: 0000-0002-4118-8236
   <li>
     <strong>U. Andrade</strong> et al. (DES Collaboration)<br>
     <em>DES Y6 final results: Splitting growth and geometry to test</em> ΛCDM.<br>
-    <span style="color:#777; font-size:0.9em;">Leading analysis and writing.</span>
+    <span class="ua-role-note">Leading analysis and writing.</span>
   </li>
 </ol> -->
 <!-- --- -->
@@ -36,9 +40,9 @@ ORCID: 0000-0002-4118-8236
     <a href="https://journals.aps.org/prd/abstract/10.1103/kdys-w8vl">
       2025, <em>Phys. Rev. D</em> <strong>112</strong>, 083512
     </a>.
-    <span style="color:#999;">→</span>
-    <em><span style="color:#4B5FD2;">Featured in Physics; Editor’s Suggestion.</span></em><br>
-    <span style="color:#777; font-size:0.9em;">Led analysis and writing.</span>
+    <span class="ua-publication-arrow">→</span>
+    <span class="ua-publication-badge">Featured in Physics; Editor’s Suggestion.</span><br>
+    <span class="ua-role-note">Led analysis and writing.</span>
   </li>
 
   <li>
@@ -47,7 +51,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://journals.aps.org/prd/abstract/10.1103/tr6y-kpc6">
       2025, <em>Phys. Rev. D</em> <strong>112</strong>, 083515
     </a><br>
-    <span style="color:#777; font-size:0.9em;">
+    <span class="ua-role-note">
       DESI Key Paper; alphabetical author list. Credited for contributions as DR2 BAO Topical Group lead; Key Project coordination; BAO analysis on mocks and data; unblinding tests and documentation; plots; writing.
     </span>
   </li>
@@ -58,7 +62,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/01/128">
       2025, <em>JCAP</em> 01:128
     </a><br>
-    <span style="color:#777; font-size:0.9em;">Led analysis and writing.</span>
+    <span class="ua-role-note">Led analysis and writing.</span>
   </li>
 
   <li>
@@ -67,7 +71,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://doi.org/10.1093/mnras/stae402">
       2024, <em>MNRAS</em> <strong>529</strong>(2):831–838
     </a><br>
-    <span style="color:#777; font-size:0.9em;">Led analysis and writing.</span>
+    <span class="ua-role-note">Led analysis and writing.</span>
   </li>
 
   <li>
@@ -76,7 +80,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2022/10/088">
       2022, <em>JCAP</em> 10:088
     </a><br>
-    <span style="color:#777; font-size:0.9em;">Led analysis and writing.</span>
+    <span class="ua-role-note">Led analysis and writing.</span>
   </li>
 
   <li>
@@ -85,7 +89,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://doi.org/10.1088/1475-7516/2021/11/014">
       2021, <em>JCAP</em> 11:014
     </a><br>
-    <span style="color:#777; font-size:0.9em;">Led analysis and writing.</span>
+    <span class="ua-role-note">Led analysis and writing.</span>
   </li>
 
   <li>
@@ -94,7 +98,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://doi.org/10.1140/epjc/s10052-019-7284-4">
       2019, <em>Eur. Phys. J. C</em> <strong>79</strong>(9):768
     </a><br>
-    <span style="color:#777; font-size:0.9em;">Co-led analysis and writing.</span>
+    <span class="ua-role-note">Co-led analysis and writing.</span>
   </li>
 
   <li>
@@ -103,7 +107,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://doi.org/10.1093/mnras/stz2754">
       2019, <em>MNRAS</em> <strong>490</strong>(4):4481–4488
     </a><br>
-    <span style="color:#777; font-size:0.9em;">Led analysis and writing.</span>
+    <span class="ua-role-note">Led analysis and writing.</span>
   </li>
 
   <li>
@@ -112,7 +116,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://doi.org/10.3847/1538-4357/aadb90">
       2018, <em>ApJ</em> <strong>865</strong>(2):119
     </a><br>
-    <span style="color:#777; font-size:0.9em;">Led analysis and writing.</span>
+    <span class="ua-role-note">Led analysis and writing.</span>
   </li>
 
   <li>
@@ -121,7 +125,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://doi.org/10.1103/PhysRevD.97.083518">
       2018, <em>Phys. Rev. D</em> <strong>97</strong>(8):083518
     </a><br>
-    <span style="color:#777; font-size:0.9em;">Led analysis and writing.</span>
+    <span class="ua-role-note">Led analysis and writing.</span>
   </li>
 </ol>
 
@@ -131,12 +135,21 @@ ORCID: 0000-0002-4118-8236
 
 <ol reversed>
   <li>
+    P. Bansal et al. (incl. <strong>U. Andrade</strong>)<br>
+    <em>FolpsD: combining EFT and phenomenological approaches for joint power spectrum and bispectrum analyses</em>;<br>
+    <a href="https://arxiv.org/abs/2604.08895">arXiv:2604.08895</a>.
+    <span class="ua-role-note">
+      Contributed to <code>desilike</code> implementation, result cross-checks, and paper writing/review.
+    </span>
+  </li>
+
+  <li>
     A. G. Adame et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
     <em>DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations</em>;<br>
     <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/021">
       2025, <em>JCAP</em> 02:021
     </a><br>
-    <span style="color:#777; font-size:0.9em;">
+    <span class="ua-role-note">
       DESI Key Paper; alphabetical author list. Credited for Monte Carlo sampler validation; inference pipeline infrastructure; Fisher forecasts using <code>desilike</code>.
     </span>
   </li>
@@ -147,7 +160,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/028">
       2025, <em>JCAP</em> 07:028
     </a><br>
-    <span style="color:#777; font-size:0.9em;">
+    <span class="ua-role-note">
       DESI Key Paper; alphabetical author list. Credited for validation of blinding with ShapeFit; inference pipeline infrastructure.
     </span>
   </li>
@@ -158,7 +171,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/09/008">
       2025, <em>JCAP</em> 09:008
     </a><br>
-    <span style="color:#777; font-size:0.9em;">
+    <span class="ua-role-note">
       DESI Key Paper; alphabetical author list. Credited for leading the supporting paper.
     </span>
   </li>
@@ -169,7 +182,7 @@ ORCID: 0000-0002-4118-8236
     <a href="https://doi.org/10.1088/1475-7516/2025/04/012">
       2025, <em>JCAP</em> 04:012
     </a><br>
-    <span style="color:#777; font-size:0.9em;">
+    <span class="ua-role-note">
       DESI Key Paper; alphabetical author list. Credited for leading the supporting paper.
     </span>
   </li>
@@ -180,30 +193,8 @@ ORCID: 0000-0002-4118-8236
     <a href="https://doi.org/10.1088/1475-7516/2025/07/017">
       2025, <em>JCAP</em> 07:017
     </a><br>
-    <span style="color:#777; font-size:0.9em;">
+    <span class="ua-role-note">
       DESI Key Paper; alphabetical author list. Credited for leading the supporting paper.
-    </span>
-  </li>
-
-  <li>
-    S. J. Rauhut, C. Blake, <strong>U. Andrade</strong> et al.<br>
-    <em>Testing gravitational physics by combining DESI DR1 and weak lensing datasets using the E<sub>G</sub> estimator</em>;<br>
-    <a href="https://astro.theoj.org/article/145197-testing-gravitational-physics-by-combining-desi-dr1-and-weak-lensing-datasets-using-the-e_g-estimator">
-      2025, <em>OJA</em> 8
-    </a><br>
-    <span style="color:#777; font-size:0.9em;">
-      Credited for tests with BGS sample in narrow redshift bins.
-    </span>
-  </li>
-
-  <li>
-    R. S. Gonçalves, G. C. Carvalho, <strong>U. Andrade</strong>, C. A. P. Bengaly, J. C. Carvalho, J. Alcaniz<br>
-    <em>Measuring the cosmic homogeneity scale with SDSS-IV DR16 quasars</em>;<br>
-    <a href="https://doi.org/10.1088/1475-7516/2021/03/029">
-      2021, <em>JCAP</em> 03:029
-    </a><br>
-    <span style="color:#777; font-size:0.9em;">
-      Contributed to conception, planning, analysis, and writing.
     </span>
   </li>
 
@@ -213,8 +204,41 @@ ORCID: 0000-0002-4118-8236
     <a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/09/053">
       2025, <em>JCAP</em> 09:053
     </a><br>
-    <span style="color:#777; font-size:0.9em;">
+    <span class="ua-role-note">
       First-tier author. Credited for projection-effects analysis and writing.
+    </span>
+  </li>
+
+  <li>
+    S. J. Rauhut, C. Blake, <strong>U. Andrade</strong> et al.<br>
+    <em>Testing gravitational physics by combining DESI DR1 and weak lensing datasets using the E<sub>G</sub> estimator</em>;<br>
+    <a href="https://astro.theoj.org/article/145197-testing-gravitational-physics-by-combining-desi-dr1-and-weak-lensing-datasets-using-the-e_g-estimator">
+      2025, <em>OJA</em> 8
+    </a><br>
+    <span class="ua-role-note">
+      Credited for tests with BGS sample in narrow redshift bins.
+    </span>
+  </li>
+
+  <li>
+    X. Shao, R. S. Gonçalves, C. A. P. Bengaly, <strong>U. Andrade</strong>, G. C. Carvalho, J. Alcaniz<br>
+    <em>Can the angular scale of cosmic homogeneity be used as a cosmological test?</em>;<br>
+    <a href="https://doi.org/10.1140/epjc/s10052-024-13011-1">
+      2024, <em>Eur. Phys. J. C</em> <strong>84</strong>, 655
+    </a><br>
+    <span class="ua-role-note">
+      Contributed to conception, planning, analysis, and writing.
+    </span>
+  </li>
+
+  <li>
+    R. S. Gonçalves, G. C. Carvalho, <strong>U. Andrade</strong>, C. A. P. Bengaly, J. C. Carvalho, J. Alcaniz<br>
+    <em>Measuring the cosmic homogeneity scale with SDSS-IV DR16 quasars</em>;<br>
+    <a href="https://doi.org/10.1088/1475-7516/2021/03/029">
+      2021, <em>JCAP</em> 03:029
+    </a><br>
+    <span class="ua-role-note">
+      Contributed to conception, planning, analysis, and writing.
     </span>
   </li>
 </ol>
@@ -235,8 +259,9 @@ ORCID: 0000-0002-4118-8236
   <li>
     D. Valcin et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
     <em>Combined tracer analysis for DESI 2024 BAO</em>;<br>
-    <a href="https://arxiv.org/abs/2508.05467">arXiv:2508.05467</a><br>
-    <span style="color:#777; font-size:0.9em;">Submitted to JCAP.</span>
+    <a href="https://doi.org/10.1088/1475-7516/2026/04/058">
+      2026, <em>JCAP</em> 04:058
+    </a>
   </li>
 
   <li>
@@ -250,14 +275,17 @@ ORCID: 0000-0002-4118-8236
   <li>
     L. Casas et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
     <em>Validation of the DESI DR2 Ly&alpha; BAO analysis using synthetic datasets</em>;<br>
-    <a href="https://arxiv.org/abs/2503.14741">arXiv:2503.14741</a>
+    <a href="https://doi.org/10.1103/fvgh-kswf">
+      2026, <em>Phys. Rev. D</em> <strong>113</strong>, 023520
+    </a>
   </li>
 
   <li>
     M. Abdul Karim et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
     <em>Data Release 1 of the Dark Energy Spectroscopic Instrument</em>;<br>
-    <a href="https://arxiv.org/abs/2503.14745">arXiv:2503.14745</a><br>
-    <span style="color:#777; font-size:0.9em;">Submitted to The Astronomical Journal.</span>
+    <a href="https://doi.org/10.3847/1538-3881/ae4c43">
+      2026, <em>Astron. J.</em> <strong>171</strong>, 285
+    </a>
   </li>
 
   <li>
@@ -295,8 +323,9 @@ ORCID: 0000-0002-4118-8236
   <li>
     X. Chen et al. (incl. <strong>U. Andrade</strong>)<br>
     <em>Extensive analysis of reconstruction algorithms for DESI 2024 baryon acoustic oscillations</em>;<br>
-    <a href="https://arxiv.org/abs/2411.19738">arXiv:2411.19738</a><br>
-    <span style="color:#777; font-size:0.9em;">Submitted to JCAP.</span>
+    <a href="https://doi.org/10.1088/1475-7516/2026/05/001">
+      2026, <em>JCAP</em> 05:001
+    </a>
   </li>
 
   <li>
@@ -304,6 +333,14 @@ ORCID: 0000-0002-4118-8236
     <em>Analytical and EZmock covariance validation for the DESI 2024 results</em>;<br>
     <a href="https://doi.org/10.1088/1475-7516/2025/04/055">
       2025, <em>JCAP</em> 04:055
+    </a>
+  </li>
+
+  <li>
+    A. G. Adame et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
+    <em>DESI 2024 IV: Baryon Acoustic Oscillations from the Lyman-&alpha; forest</em>;<br>
+    <a href="https://doi.org/10.1088/1475-7516/2025/01/124">
+      2025, <em>JCAP</em> 01:124
     </a>
   </li>
 

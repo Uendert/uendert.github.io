@@ -1,5 +1,11 @@
 # testing
 not-ready/
+.DS_Store
+
+# Local-only website assets
+docs/assets/desi-mayall.jpg
+docs/assets/comso25_2.jpeg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

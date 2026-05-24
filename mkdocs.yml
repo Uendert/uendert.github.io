@@ -1,5 +1,7 @@
 site_name: "Uendert Andrade"
 site_url: https://uendert.github.io/
+site_description: "Personal website of Uendert Andrade, a cosmologist working on DESI BAO, large-scale structure, and tests of dark energy and gravity."
+site_author: "Uendert Andrade"
 theme:
   name: material
   font:
@@ -62,6 +64,13 @@ copyright: Copyright &copy; 2025-2026 Uendert Andrade
 extra_css:
   - assets/extra.css
 
+nav:
+  - Uendert Andrade: index.md
+  - Research: research.md
+  - Publications: publications.md
+  - Talks: talks.md
+  - CV: cv.md
+
 # plugins:
 #   - search
 #   - bibtex:
@@ -70,7 +79,3 @@ extra_css:
 #       # csl_file: nature.csl
 #       csl_file: apj.csl
       # bib_by_default: false
-
-# nav:
-#   - Home: index.md
-#   - Talks: talks.md

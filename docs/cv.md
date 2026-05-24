@@ -1,4 +1,5 @@
 ---
+description: "Curriculum vitae for Uendert Andrade, Leinweber Postdoctoral Fellow in cosmology at the University of Michigan."
 hide:
   - navigation
 ---
@@ -15,6 +16,36 @@ I am a cosmologist working on precision tests of the standard cosmological model
 - **Website:** [uendert.github.io](https://uendert.github.io)  
 - **INSPIRE-HEP:** [Uendert Andrade](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Uendert%20Andrade&ui-citation-summary=true)  
 - **ORCID:** [0000-0002-4118-8236](https://orcid.org/0000-0002-4118-8236)
+
+## Selected leadership
+
+<div class="grid cards" markdown="1">
+
+-   :material-chart-bell-curve-cumulative: __DESI DR2 BAO co-coordination__
+
+    ---
+
+    Co-coordinated the DESI DR2 BAO Key Project within the Galaxy & Quasar Clustering Working Group.
+
+-   :material-account-group-outline: __BAO topical-group leadership__
+
+    ---
+
+    Led galaxy-clustering BAO analyses across tracers, including reconstruction, distance-scale measurements, and systematic validation.
+
+-   :material-school-outline: __Michigan cosmology activities__
+
+    ---
+
+    Organized cosmology seminars, group meetings, and Michigan Cosmology Summer School activities.
+
+-   :material-book-check-outline: __Service and mentoring__
+
+    ---
+
+    Refereeing for cosmology journals and mentoring graduate and undergraduate research projects.
+
+</div>
 
 !!! note "PDF version"
 
@@ -118,6 +149,7 @@ Co-organized the 2nd Michigan Cosmology Summer School, a hybrid event focused on
 - *European Physical Journal C (EPJC)* — Referee *(2026–present)*  
 - *Journal of High Energy Astrophysics (JHEAp)* — Referee *(2025–present)*  
 - *Monthly Notices of the Royal Astronomical Society (MNRAS)* — Referee *(2020–present)*
+
 ---
 
 ## **Honors and awards**
@@ -128,8 +160,8 @@ Co-organized the 2nd Michigan Cosmology Summer School, a hybrid event focused on
 
 ## **Teaching and mentoring**
 
-- Mentoring of graduate students research within DESI and DES  
-- Supervision and mentoring of undergraduate research project  
+- Mentoring of graduate-student research projects within DESI and DES
+- Supervision and mentoring of undergraduate research projects
 
 ---
 
