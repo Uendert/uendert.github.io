@@ -8,7 +8,7 @@ hide:
 
 I work on precision tests of cosmology with large-scale structure data, especially measurements that connect cosmic distances, structure growth, and survey systematics. Much of my recent work is within the Dark Energy Spectroscopic Instrument (DESI) collaboration, where I contribute to BAO measurements and validation for galaxy and quasar clustering. At Michigan, I am part of the [Huterer Research Group](https://websites.umich.edu/~huterer/mygroup.html) in the Department of Physics.
 
-<div class="grid cards ua-research-theme-grid" markdown="1">
+<div class="grid cards" markdown="1">
 
 -   :material-chart-bell-curve-cumulative: __Baryon acoustic oscillations__
 

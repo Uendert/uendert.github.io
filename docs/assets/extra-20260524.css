@@ -521,14 +521,10 @@
   margin: -0.3rem 0 1.8rem;
 }
 
-.md-typeset .grid.cards.ua-research-theme-grid > ul {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
 .ua-research-work {
   display: grid;
   gap: 0.8rem;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   margin: 0.8rem 0 1.4rem;
 }
 
@@ -651,11 +647,6 @@
   }
 
   .ua-featured-work {
-    grid-template-columns: 1fr;
-  }
-
-  .md-typeset .grid.cards.ua-research-theme-grid > ul,
-  .ua-research-work {
     grid-template-columns: 1fr;
   }
 
