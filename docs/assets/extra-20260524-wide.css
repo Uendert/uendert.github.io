@@ -72,6 +72,12 @@
   }
 }
 
+@media (min-width: 1220px) {
+  .md-grid {
+    max-width: 76rem;
+  }
+}
+
 
 /* Homepage hero */
 .ua-home-hero {

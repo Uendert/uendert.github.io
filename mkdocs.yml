@@ -62,7 +62,7 @@ extra:
 
 copyright: Copyright &copy; 2025-2026 Uendert Andrade
 extra_css:
-  - assets/extra-20260524.css
+  - assets/extra-20260524-wide.css
 
 nav:
   - Uendert Andrade: index.md
