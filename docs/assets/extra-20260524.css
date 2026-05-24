@@ -72,6 +72,18 @@
   }
 }
 
+@media (min-width: 76.25em) {
+  .md-tabs {
+    position: sticky;
+    top: 2.4rem;
+    z-index: 3;
+  }
+}
+
+.md-content__inner:has(> .ua-home-hero) > h1:first-child {
+  display: none;
+}
+
 
 /* Homepage hero */
 .ua-home-hero {

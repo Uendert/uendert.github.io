@@ -11,25 +11,16 @@ hide:
 
 <div class="ua-home-copy" markdown="1">
 
-<h1 class="ua-home-name">Uendert Andrade</h1>
-
 <p class="ua-home-kicker">Leinweber Postdoctoral Fellow · University of Michigan</p>
 
-<p class="ua-home-tagline">Precision cosmology with large galaxy surveys, cosmic structure, and growth-expansion consistency tests.</p>
+<p class="ua-home-tagline">Precision cosmology with large galaxy surveys &middot; cosmic structure &middot; growth-expansion consistency tests</p>
 
 I’m **Uendert Andrade**, a cosmologist using state-of-the-art galaxy surveys to test the standard cosmological model. My work focuses on **large-scale structure**, **galaxy clustering**, **baryon acoustic oscillations (BAO)**, and consistency tests of **gravity** and **dark energy**.
 
-I work across observational and theoretical cosmology, with a particular emphasis on turning survey measurements into robust cosmological constraints. Within **DESI**, I have played leading roles in BAO validation, blinding strategies, and coordination of cosmological results from galaxy and quasar clustering.
-
-<div class="ua-home-actions">
-  <a href="research/" class="ua-home-action">Research</a>
-  <a href="publications/" class="ua-home-action">Publications</a>
-  <a href="talks/" class="ua-home-action">Talks</a>
-  <a href="cv/" class="ua-home-action">CV</a>
-</div>
+I work across observational and theoretical cosmology, with a particular emphasis on turning survey measurements into robust cosmological constraints. Within **DESI** (Dark Energy Spectroscopic Instrument), I have played leading roles in BAO validation, blinding strategies, and coordination of cosmological results from galaxy and quasar clustering. I am also an active member of **DES** (Dark Energy Survey), where I am leading the Y6 geometry-growth split analysis.
 
 <div class="ua-home-affiliation" markdown="1">
-At Michigan, I work within the **Leinweber Institute for Theoretical Physics** and am part of the [Huterer Research Group](https://websites.umich.edu/~huterer/mygroup.html).
+At UMichigan, I work within the **Leinweber Institute for Theoretical Physics** and am part of the [Huterer Research Group](https://websites.umich.edu/~huterer/mygroup.html).
 </div>
 
 </div>
@@ -56,10 +47,10 @@ At Michigan, I work within the **Leinweber Institute for Theoretical Physics** a
 
 </div>
 
-## Featured DESI BAO Work
+## Featured Work: DESI BAO
 
 <p class="ua-featured-context">
-DESI DR2 BAO is a large collaboration result. My contributions centered on galaxy and quasar BAO validation, blinding tests, analysis coordination, documentation, plots, and writing, including leading the dedicated validation paper.
+BAO constraints from DESI Data Release 2 are the result of a large collaboration effort. My contributions centered on galaxy and quasar BAO validation, blinding tests, analysis coordination, documentation, plots, and writing, as well as leading the dedicated validation paper.
 </p>
 
 <div class="ua-featured-work" markdown="1">
