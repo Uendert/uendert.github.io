@@ -135,6 +135,15 @@ ORCID: 0000-0002-4118-8236
 
 <ol reversed>
   <li>
+    N. Sanders, H. Seo, M. Rashkovetskyi, <strong>U. Andrade</strong> et al.<br>
+    <em>A Unified Tracer Analysis of DESI DR2 Baryon Acoustic Oscillations</em>;<br>
+    <a href="https://arxiv.org/abs/2608.27830">arXiv:2608.27830</a>
+    <span class="ua-role-note">
+      Contributed to clustering, reconstruction, and BAO validation; cosmological analyses with systematic uncertainties; and methodological guidance.
+    </span>
+  </li>
+
+  <li>
     P. Bansal et al. (incl. <strong>U. Andrade</strong>)<br>
     <em>FolpsD: combining EFT and phenomenological approaches for joint power spectrum and bispectrum analyses</em>;<br>
     <a href="https://arxiv.org/abs/2604.08895">arXiv:2604.08895</a>.
@@ -248,6 +257,30 @@ ORCID: 0000-0002-4118-8236
 ### Contributing author
 
 <ol reversed>
+  <li>
+    C. Ravoux et al. (incl. <strong>U. Andrade</strong>)<br>
+    <em>Field-level inference of growth rate from DESI BGS galaxy and ZTF supernova simulations</em>;<br>
+    <a href="https://arxiv.org/abs/2609.34508">arXiv:2609.34508</a>
+  </li>
+
+  <li>
+    M. F. Ruiz-Herrera Bernal et al. (incl. <strong>U. Andrade</strong>)<br>
+    <em>CoLoRe-2LPT: Lyman-&alpha; mock catalogues for the validation of DESI cosmological analyses</em>;<br>
+    <a href="https://arxiv.org/abs/2607.27412">arXiv:2607.27412</a>
+  </li>
+
+  <li>
+    M. Herbold et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
+    <em>Validation of the DESI DR2 Ly&alpha; forest full-shape analysis</em>;<br>
+    <a href="https://arxiv.org/abs/2607.27411">arXiv:2607.27411</a>
+  </li>
+
+  <li>
+    A. G. Adame et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
+    <em>DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints</em>;<br>
+    <a href="https://arxiv.org/abs/2607.27410">arXiv:2607.27410</a>
+  </li>
+
   <li>
     S. P. Ahlen et al. (DESI Collaboration; incl. <strong>U. Andrade</strong>)<br>
     <em>Positive neutrino masses with DESI DR2 via matter conversion to dark energy</em>;<br>
