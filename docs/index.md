@@ -21,6 +21,11 @@ I work across observational and theoretical cosmology, with a particular emphasi
 
 <div class="ua-home-affiliation" markdown="1">
 At UMichigan, I work within the **Leinweber Institute for Theoretical Physics** and am part of the [Huterer Research Group](https://websites.umich.edu/~huterer/mygroup.html).
+
+<a class="ua-affiliation-logo" href="https://lsa.umich.edu/litp" title="Visit the Leinweber Institute for Theoretical Physics">
+  <img class="ua-affiliation-logo-light" src="assets/LSA_LITP_web.png" alt="University of Michigan, Leinweber Institute for Theoretical Physics" width="762" height="102" decoding="async">
+  <img class="ua-affiliation-logo-dark" src="assets/LSA_LITP_web_rev.png" alt="University of Michigan, Leinweber Institute for Theoretical Physics" width="762" height="102" decoding="async">
+</a>
 </div>
 
 </div>
@@ -50,7 +55,7 @@ At UMichigan, I work within the **Leinweber Institute for Theoretical Physics** 
 ## Featured Work: DESI BAO
 
 <p class="ua-featured-context">
-BAO constraints from DESI Data Release 2 are the result of a large collaboration effort. My contributions centered on galaxy and quasar BAO validation, blinding tests, analysis coordination, documentation, plots, and writing, as well as leading the dedicated validation paper.
+BAO constraints from DESI Data Release 2 are the result of a large collaboration effort. My contributions centered on galaxy and quasar BAO validation, blinding tests, analysis coordination, documentation, plots, and writing, as well as leading the dedicated validation papers.
 </p>
 
 <div class="ua-featured-work" markdown="1">
