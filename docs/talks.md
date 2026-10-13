@@ -10,6 +10,29 @@ hide:
 Selected invited and conference presentations on DESI, BAO, dark energy, galaxy surveys, and growth-expansion consistency tests. A complete list is available in the PDF version of my CV.
 </p>
 
+## Upcoming Talks
+
+<div class="ua-talk-list">
+
+<div class="ua-talk-card">
+  <div class="ua-talk-when">
+    <div class="ua-talk-date">October 23, 2026</div>
+    <div class="ua-talk-place">MIT, Cambridge, MA</div>
+    <div class="ua-talk-place">9:00 AM EDT</div>
+    <div class="ua-talk-badges"><span class="ua-talk-badge">Upcoming</span></div>
+  </div>
+  <div class="ua-talk-body">
+    <div class="ua-talk-venue">Leinweber Institutes Postdoctoral Fellows Meeting</div>
+    <div class="ua-talk-title"><em>From Galaxy Maps to Cosmic Acceleration</em></div>
+    <div class="ua-talk-links">
+      <a class="ua-talk-link" href="https://web.mit.edu/~csuggs/www/leinweber-meeting/fellows.html#uendert-andrade">Abstract</a>
+      <a class="ua-talk-link" href="https://web.mit.edu/~csuggs/www/leinweber-meeting/index.html#event-23-0900">Program</a>
+    </div>
+  </div>
+</div>
+
+</div>
+
 ## Invited Talks
 
 <div class="ua-talk-list">
