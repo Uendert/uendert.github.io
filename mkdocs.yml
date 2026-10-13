@@ -1,6 +1,6 @@
 site_name: "Uendert Andrade"
 site_url: https://uendert.github.io/
-site_description: "Personal website of Uendert Andrade, a cosmologist working on DESI BAO, large-scale structure, and tests of dark energy and gravity."
+site_description: "Uendert Andrade works on precision cosmology with large galaxy surveys, studying cosmic expansion, structure growth, dark energy, and gravity."
 site_author: "Uendert Andrade"
 theme:
   name: material

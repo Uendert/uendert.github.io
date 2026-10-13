@@ -1,6 +1,6 @@
 ---
 title: "Uendert Andrade"
-description: "Personal website of Uendert Andrade, a cosmologist working on DESI BAO, large-scale structure, and tests of dark energy and gravity."
+description: "Uendert Andrade works on precision cosmology with large galaxy surveys, studying cosmic expansion, structure growth, dark energy, and gravity."
 hide:
   - toc
   - navigation
@@ -11,7 +11,7 @@ hide:
 
 <div class="ua-home-copy" markdown="1">
 
-<p class="ua-home-kicker">Leinweber Postdoctoral Fellow · University of Michigan</p>
+<p class="ua-home-kicker"><a href="https://www.leinweberfoundation.org/institutes">Leinweber Postdoctoral Fellow</a> · University of Michigan</p>
 
 <p class="ua-home-tagline">Precision cosmology with large galaxy surveys &middot; cosmic structure &middot; growth-expansion consistency tests</p>
 
@@ -30,7 +30,7 @@ At UMichigan, I work within the **Leinweber Institute for Theoretical Physics** 
 ![Uendert Andrade](assets/eu.jpg){ .ua-profile-avatar }
 
 <div class="ua-profile-name">Uendert Andrade</div>
-<div class="ua-profile-title">Leinweber Postdoctoral Fellow</div>
+<div class="ua-profile-title"><a href="https://www.leinweberfoundation.org/institutes">Leinweber Postdoctoral Fellow</a></div>
 
 <div class="ua-profile-affiliations">
   <span>Leinweber Institute for Theoretical Physics</span>

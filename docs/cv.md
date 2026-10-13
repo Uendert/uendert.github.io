@@ -7,10 +7,10 @@ hide:
 # Curriculum Vitae
 
 **Uendert Andrade**,
-_Leinweber Postdoctoral Fellow, Department of Physics, University of Michigan_
+_[Leinweber Postdoctoral Fellow](https://www.leinweberfoundation.org/institutes), Department of Physics, University of Michigan_
 <!-- Leinweber Institute for Theoretical Physics -->
 
-I am a cosmologist working on precision tests of the standard cosmological model using large-scale structure surveys, with a focus on baryon acoustic oscillations, growth–geometry consistency tests, and survey validation. I am currently a Leinweber Postdoctoral Fellow at the University of Michigan and a leading contributor to DESI BAO analyses.
+I am a cosmologist working on precision tests of the standard cosmological model using large-scale structure surveys, with a focus on baryon acoustic oscillations, growth–geometry consistency tests, and survey validation. I am currently a [Leinweber Postdoctoral Fellow](https://www.leinweberfoundation.org/institutes) at the University of Michigan and a leading contributor to DESI BAO analyses.
 
 - **Email:** [uendsa@umich.edu](mailto:uendsa@umich.edu)  
 - **Website:** [uendert.github.io](https://uendert.github.io)  
@@ -68,7 +68,7 @@ I am a cosmologist working on precision tests of the standard cosmological model
 ## **Professional appointments**
 
 **University of Michigan**, Ann Arbor, MI  
-*Leinweber Postdoctoral Fellow, Department of Physics*  
+*[Leinweber Postdoctoral Fellow](https://www.leinweberfoundation.org/institutes), Department of Physics*<br>
 **September 2022 – Present**
 
 **Observatório Nacional**, Rio de Janeiro, Brazil  
@@ -154,7 +154,7 @@ Co-organized the 2nd Michigan Cosmology Summer School, a hybrid event focused on
 
 ## **Honors and awards**
 
-- Leinweber Postdoctoral Fellowship  
+- [Leinweber Postdoctoral Fellowship](https://www.leinweberfoundation.org/institutes)
 
 ---
 
@@ -184,7 +184,7 @@ Portuguese (native), English (fluent), Spanish (conversational)
 
     **Dragan Huterer**  
     Professor of Physics, University of Michigan  
-    📧 hutrerer@umich.edu  
+    📧 huterer@umich.edu
 
     **Daniel Eisenstein**  
     Professor of Astronomy, Harvard University  

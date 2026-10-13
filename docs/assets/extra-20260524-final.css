@@ -115,6 +115,13 @@
   text-transform: uppercase;
 }
 
+.ua-home-kicker a,
+.ua-profile-title a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
 .ua-home-tagline {
   color: var(--md-default-fg-color);
   font-size: 1.32rem;
