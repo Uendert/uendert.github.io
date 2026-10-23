@@ -23,7 +23,7 @@ Selected invited and conference presentations on DESI, BAO, dark energy, galaxy 
     <div class="ua-talk-venue">Leinweber Institutes Postdoctoral Fellows Meeting</div>
     <div class="ua-talk-title"><em>From Galaxy Maps to Cosmic Acceleration</em></div>
     <div class="ua-talk-links">
-      <a class="ua-talk-link" href="../assets/talks/leinweber-mit-2026-cosmic-acceleration.pdf">Slides PDF</a>
+      <a class="ua-talk-link" href="../assets/talks/leinweber-mit-2026-cosmic-acceleration.pdf?v=keynote-original">Slides PDF</a>
       <a class="ua-talk-link" href="https://web.mit.edu/~csuggs/www/leinweber-meeting/fellows.html#uendert-andrade">Abstract</a>
       <a class="ua-talk-link" href="https://web.mit.edu/~csuggs/www/leinweber-meeting/index.html#event-23-0900">Program</a>
     </div>
